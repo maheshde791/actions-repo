@@ -11,5 +11,5 @@ jobs:
 
             - name: Cowsay ascii script
               run: |
-                chmod +x
+                chmod +x Scripts/ascii-artwork.sh
                 ./Scripts/ascii-artwork.sh
